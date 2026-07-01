@@ -1,5 +1,5 @@
 {
-  "name": "診療科仕分けゲーム仕様書",
+  "name": "メディカル・ジャッジ〜そっちの科じゃありません！〜仕様書",
   "description": "患者の症状を見て正しい診療科へ仕分けるスピードクイズゲームの仕様書作成プロジェクト",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
